@@ -64,7 +64,7 @@ The following files can be found in the `final_data` directory:
 - `enhancer_test.fa`: This file contains enhancer test data used to evaluate the model's performance.
 - `nonenhancer_test.fa`: This file contains non-enhancer test data used for evaluation purposes.
 
-## Other Data
+### Other Data
 - `chr`: This directory contains enhancer data segregated by chromosome.
 - `human_enhancer`: This directory contains enhancer data commonly used for training models in the context of human biology.
 - `tissue_special`: This directory contains data related to Heart tissue and iPSC (induced pluripotent stem cells) for both human and pig obtained from EnhancerAtlas 2.0 database. The data has been classified based on the reference genome source.
